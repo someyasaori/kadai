@@ -55,12 +55,12 @@ fclose($fp);
 ?>
 </table>
 <!-- JQuery -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
 <!-- JQuery -->  
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
 
-</script>
+</script> -->
 
 </body>
 </html>
