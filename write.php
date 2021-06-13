@@ -25,8 +25,6 @@ fclose($file);
 header("Location:read.php");
 exit();
 
-// <script type="text/javascript">
-//        window.open('read.php', '_blank');
-// </script>
+
 
 ?>
