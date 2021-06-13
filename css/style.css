@@ -1,0 +1,25 @@
+h1{
+    font-size: 20px;
+    color:#0000cd;
+}
+
+
+
+th{
+    width:10%;
+    font-size:16px;
+    color:#696969;
+    background-color:#b0e0e6;
+    border-bottom: 1px solid #0000cd;
+    border-right: 1px solid #0000cd;
+    text-align: center;
+}
+
+td{
+    font-size:12px;
+    color:#000000;
+    background-color:#fffafa;
+    border-bottom: 1px solid #0000cd;
+    border-right: 1px solid #0000cd;
+    text-align: center;
+}
