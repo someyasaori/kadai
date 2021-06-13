@@ -16,7 +16,7 @@
         <p>メールアドレス： <input type="text" name ="email" id ="email" size="20"></p>
     </div>   
     <div class="basic">
-        <p>家族構成
+        <p>家族構成：
             <select name="family" id="family">
             <option value="1人">1人</option>
             <option value="2人">2人</option>
@@ -25,7 +25,7 @@
             <option value="5人">5人</option>
             <option value="5人以上">5人以上</option>
         </select></p>
-        <p>おおよその1か月の電気代
+        <p>おおよその1か月の電気代：
             <select name="bill" id="bill">
             <option value="3,000">～3,000円</option>
             <option value="4,000">3,001～5,000円</option>
