@@ -10,7 +10,7 @@
 <body>
 
 
-<table border='1'>
+<table>
 <tr><th>提出日時</th>
 <th>名前</th>
 <th>メールアドレス</th>
@@ -83,6 +83,9 @@ fclose($fp);
 
 ?>
 </table>
+<!-- JQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<!-- JQuery -->  
 
 <script type="text/javascript">
 
