@@ -31,9 +31,8 @@
         <p><input type="submit" value="送信" id="submit"></p>
     </form>
 
-    <ul>
-	<li><a href="read.php">これまでの結果を表示</a></li>
-    </ul>
+    <a href="read.php">これまでの結果を表示</a>
+    
 
     <script>
 
